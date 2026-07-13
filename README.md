@@ -25,7 +25,7 @@ Runs on a self-hosted Docker/Docker Compose stack, managed through Portainer:
 
 ## 📚 Currently Learning
 
-![Azure](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge)
 
 ## ⚙️ Engineering & Data (Background)
 
