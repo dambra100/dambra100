@@ -39,6 +39,13 @@ MATLAB, Ansys (CFD/FEA), PostgreSQL, Docker (data pipelines)
 - Thermodynamics
 - Technical Documentation
 
+## 📌 Projects
+
+- **[homelab](https://github.com/dambra100/homelab)** — Documentation of my self-hosted infrastructure: Docker/Portainer service stack, Tailscale mesh VPN, Pi-hole DNS, reverse proxy, and uptime monitoring across ~20 services.
+- **[WindTurbine](https://github.com/dambra100/WindTurbine)** — End-to-end ELT data pipeline for wind turbine SCADA telemetry, using Docker, TimescaleDB/PostgreSQL, and Grafana for downtime and financial-impact analytics.
+- **[My Brick](https://github.com/dambra100/my-brick)** — A DIY physical phone blocker for Android: NFC-triggered app blocking built with Kivy, Buildozer, and Pyjnius.
+- **[BEng Compliant Mechanism Scale](https://github.com/dambra100/BEng-Compliant-Mechanism-Scale)** — Final-year mechanical engineering project: an optical, MATLAB-driven force-sensing scale built around a compliant mechanism.
+
 ## 📫 Contact
 
 - Email: [zeshaanshahid2k@gmail.com](mailto:zeshaanshahid2k@gmail.com)
